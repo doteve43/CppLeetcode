@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Solution225.cpp" />
     <ClCompile Include="Solution232.cpp" />
+    <ClCompile Include="SolutionInterview0301.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
