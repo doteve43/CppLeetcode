@@ -18,5 +18,8 @@
     <ClCompile Include="Solution232.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Solution225.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
